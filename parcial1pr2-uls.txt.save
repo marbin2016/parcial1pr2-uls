@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+	<meta charset="UTF-8">
+	<title>Raiz Cuadrada</title>
+	</head>
+	<body>
+	<?php
+	$numero = 16;
+	echo sq
